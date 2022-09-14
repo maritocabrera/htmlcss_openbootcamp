@@ -1,2 +1,2 @@
 # htmlcss_openbootcamp
-HTML-CSS
+Ejercicios de curso HTML CSS en OpenBootcamp.
